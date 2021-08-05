@@ -909,3 +909,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.05-11.25.18:733][512]LogStaticMesh: Built static mesh [0.53s] /Game/Blueprints/Enemies/Skelly/sheild1.sheild1
 [2021.08.05-11.25.18:974][512]LogEditorFactories: -- imported successfully
 [2021.08.05-11.25.18:990][512]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.05-11.27.25:700][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (skelysword)
+[2021.08.05-11.27.25:730][107]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.08.05-11.27.32:539][818]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Skelly)
+[2021.08.05-11.27.35:684][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sheild1)
